@@ -1,0 +1,17 @@
+
+**/__pycache__
+*.py[cod]
+venv/
+env/
+.venv/
+*.env
+*.log
+.git
+.gitignore
+.vscode/
+.idea/
+.tox/
+.cache/
+nosetests.xml
+coverage.xml
+htmlcov/
